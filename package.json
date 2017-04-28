@@ -1,0 +1,26 @@
+{
+  "name": "aaysr",
+  "version": "0.0.1",
+  "description": "A.A.Y.S.R. (Ask and ye shall receive) is an app created to manage group shopping.",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.3",
+    "express": "^4.15.2",
+    "massive": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Whitehorn-Enterprises/aaysr.git"
+  },
+  "author": "Joseph Whitehorn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Whitehorn-Enterprises/aaysr/issues"
+  },
+  "homepage": "https://github.com/Whitehorn-Enterprises/aaysr#readme"
+}
